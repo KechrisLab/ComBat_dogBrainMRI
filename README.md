@@ -5,7 +5,7 @@ This repository contains the R-codes for the analyses, tables, and figures prese
 
 1. 3clinLowerUpper_RF_SMOTE_75iters_050321.R
 
-  #### Case 0 pre-ComBat lower bounds and upper bounds; no ComBat harmonization involved; only three clinical covariates in the RF model 
+  * Case 0 pre-ComBat lower bounds and upper bounds; no ComBat harmonization involved; only three clinical covariates in the RF model 
   
 2. 3imgVars_prepostComBat_051021.R
   #### Pre-ComBat lower bounds, Case 1 scenarios a and b post-ComBat lower bounds, and upper bounds; only three image variables in the RF model
